@@ -1,25 +1,53 @@
-# ðŸ’« About Me:
-I'm 18 years old, and I created an open-source Android app.
+<div align="center">
 
+# Hi, I'm Jhaiian 👋
 
-## ðŸŒ Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jhaiian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhaiianbetter@duck.com) 
+**John Cristian Lucas** · Android Developer · Creator of **[Clint Gecko](https://github.com/jhaiian/ClintGecko)**
 
-# ðŸ’» Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jhaiian&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Jhaiian&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jhaiian&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Email](https://img.shields.io/badge/Email-jhaiian%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:jhaiian@proton.me)
 
-### âœï¸ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jhaiian&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## ðŸ’° You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jhaiian) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jhaiian) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jhaiian) 
+> *"I believe every piece of software should be free, regardless of anyone's financial status, without compromising on features or resorting to ads, paywalls, or data collection."*
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+In a world full of greed, I want to be a different kind of person.
+
+## 🎯 My Goal
+
+To provide free software to my fellow Android users by building open-source apps that are completely free to use, with **no ads**, **no paywalls**, **no tracking**, and **no compromises**.
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</p>
+
+## 🚀 Projects
+
+| Project | Description | Status |
+| --- | --- | --- |
+| **[Clint Gecko](https://github.com/jhaiian/ClintGecko)** | A Firefox-based (GeckoView) Android browser with a built-in download manager (ADM), media capture, and extension support. | ✅ Available |
+| **[Kate Music](https://github.com/jhaiian/KateMusic)** | An Android music player with a beautiful UI, listening statistics, and more. | 🚧 Upcoming |
+| **[Clint Browser](https://github.com/jhaiian/ClintBrowser)** | A lightweight Android browser with ADM, ad blocking, media capture, and multi-profile support. | ✅ Available |
+
+## 📬 Contact
+
+Have a question, idea, or just want to say hi? Reach me at **[jhaiian@proton.me](mailto:jhaiian@proton.me)**.
+
+## ❤️ Support My Work
+
+Everything I make is free, and it stays that way. If my apps have helped you and you'd like to help me keep building, you can support me on any of these platforms:
+
+<p>
+  <a href="https://paypal.me/jhaiian"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+  <a href="https://patreon.com/jhaiian"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" /></a>
+  <a href="https://ko-fi.com/jhaiian"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
+</p>
+
+<div align="center">
+
+</div>
